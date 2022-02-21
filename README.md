@@ -1,1 +1,1 @@
-# miniproject
+# COMP 383 Miniproject
